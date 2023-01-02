@@ -1,4 +1,4 @@
-# Smart-Home-With-Arduino-Project
+# Smart-Home-With-Arduino
 ## What	is	a	Smart	Home?
 - In the modern era, everyone wants ease of life with fewer difficulties. Yes it is true technology has made us lazy but on another hand, it improves every field of life.
 - Now a day’s Home automation or Smart homes improve the living standards. It gave us the access to switch on and off any device or appliances easily and efficiently.
